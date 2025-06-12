@@ -16,3 +16,13 @@ body {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 ```
+css
+body {
+  background-color: black; /* fond noir */
+  color: red; /* texte rouge */
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: red; /* titre rouge */
+}
